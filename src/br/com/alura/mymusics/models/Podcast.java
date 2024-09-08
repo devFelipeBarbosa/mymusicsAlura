@@ -19,4 +19,17 @@ public class Podcast extends Audio{
     public void setPreview(String preview) {
         this.preview = preview;
     }
+
+    @Override
+    public int getClassification() {
+
+        if(this.getTotalLikes()>500){
+            return 10;
+        } else {
+
+            return 8;
+
+        }
+
+    }
 }
