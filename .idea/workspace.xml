@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2322c152-eb5c-4b1c-ae63-11b7121fa8d4" name="Changes" comment="Modelando nossa aplicação de áudio">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/mymusics/models/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/models/Audio.java" afterDir="false" />
-    </list>
+    <list default="true" id="2322c152-eb5c-4b1c-ae63-11b7121fa8d4" name="Changes" comment="Instanciando músicas e podcasts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +109,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725797051509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Instanciando músicas e podcasts">
+      <option name="closed" value="true" />
+      <created>1725798286214</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725798286214</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Instanciando músicas e podcasts">
+      <option name="closed" value="true" />
+      <created>1725798339399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725798339399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Instanciando músicas e podcasts">
+      <option name="closed" value="true" />
+      <created>1725798364858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725798364858</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modelando nossa aplicação de áudio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modelando nossa aplicação de áudio" />
+    <MESSAGE value="Instanciando músicas e podcasts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instanciando músicas e podcasts" />
   </component>
 </project>
